@@ -26,6 +26,10 @@ header {
   text-align: center;
   color: white;
 }
+p a {
+  text-decoration: none;
+  color: rgb(71, 139, 230);
+}
 nav {
   text-align: center;
   padding: 10px;
